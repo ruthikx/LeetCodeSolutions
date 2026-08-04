@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ruthikx/LeetCodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ruthikx/LeetCodeSolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruthikx/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3731-find-missing-elements](https://github.com/ruthikx/LeetCodeSolution/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
@@ -59,10 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruthikx/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3731-find-missing-elements](https://github.com/ruthikx/LeetCodeSolution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruthikx/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3731-find-missing-elements](https://github.com/ruthikx/LeetCodeSolution/tree/master/3731-find-missing-elements) |
 ## Sliding Window
 |  |
 | ------- |
