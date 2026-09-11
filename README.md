@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/ruthikx/LeetCodeSolution/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ruthikx/LeetCodeSolution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/ruthikx/LeetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ruthikx/LeetCodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/ruthikx/LeetCodeSolution/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/ruthikx/LeetCodeSolution/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ruthikx/LeetCodeSolution/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/ruthikx/LeetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ruthikx/LeetCodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/ruthikx/LeetCodeSolution/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ruthikx/LeetCodeSolution/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/ruthikx/LeetCodeSolution/tree/master/0394-decode-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ruthikx/LeetCodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Design
 |  |
 | ------- |
@@ -194,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ruthikx/LeetCodeSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ruthikx/LeetCodeSolution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
