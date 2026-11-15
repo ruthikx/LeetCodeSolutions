@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ruthikx/LeetCodeSolution/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ruthikx/LeetCodeSolution/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/ruthikx/LeetCodeSolution/tree/master/0735-asteroid-collision) |
+| [0875-koko-eating-bananas](https://github.com/ruthikx/LeetCodeSolution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthikx/LeetCodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/ruthikx/LeetCodeSolution/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ruthikx/LeetCodeSolution/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ruthikx/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ruthikx/LeetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/ruthikx/LeetCodeSolution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthikx/LeetCodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
