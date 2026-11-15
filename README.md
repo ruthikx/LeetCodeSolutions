@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ruthikx/LeetCodeSolution/tree/master/0011-container-with-most-water) |
+| [0074-search-a-2d-matrix](https://github.com/ruthikx/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ruthikx/LeetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/ruthikx/LeetCodeSolution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/ruthikx/LeetCodeSolution/tree/master/0283-move-zeroes) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ruthikx/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ruthikx/LeetCodeSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/ruthikx/LeetCodeSolution/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/ruthikx/LeetCodeSolution/tree/master/0074-search-a-2d-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/ruthikx/LeetCodeSolution/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
